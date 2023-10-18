@@ -31,6 +31,9 @@
         <item key="2" style="Item">
           <text style="Item__Label">Item 2</text>
         </item>
+        <item key="19" style="Item">
+          <text style="Item__Label">Item 19</text>
+        </item>
         <item key="20" style="Item">
           <text style="Item__Label">Item 20</text>
         </item>
